@@ -1,0 +1,3 @@
+from list_comp import *
+
+first10()
