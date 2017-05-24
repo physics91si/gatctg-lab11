@@ -1,5 +1,5 @@
 from list_comp import *
 
 print(first10())
-repeated()
-grid()
+print(repeated())
+print(grid())
